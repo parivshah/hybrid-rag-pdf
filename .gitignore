@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.chroma/
+.bm25/
+uploads/
+node_modules/
+frontend/dist/
+.env
+data/*
+!data/sample-policy.pdf
